@@ -1,0 +1,1 @@
+# mgr_payment_getway
